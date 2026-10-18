@@ -1,0 +1,9 @@
+Package: com.yourname.aero18
+Name: Aero18
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: iOS 18 Customization for iOS 16/17
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate
