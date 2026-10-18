@@ -23,4 +23,3 @@ jobs:
         with:
           name: Aero18-Deb
           path: packages/*.deb
-
